@@ -52,6 +52,12 @@ Founded in 1999, Box Office Mojo tracks box office revenue in a systematic, algo
 
 Rotten Tomatoes  is an American  review-aggregation website  for film and television. The company was launched in August 1998 by three undergraduate students at the  University of California, Berkeley  Senh Duong, Patrick Y. Lee and Stephen Wang The name "Rotten Tomatoes" derives from the practice of audiences throwing rotten tomatoes when disapproving of a poor stage performance.
 
+###
+
+<img src="https://pbs.twimg.com/media/C4PrQIzUcAAPwFx.jpg" width="300" height="150"/>
+
+The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. 
+
 
 ## Process 
 
@@ -75,6 +81,11 @@ Once the plots are ready, we embedded them into our homepage (designed using HTM
 
 ## Findings 
 
+Overall the movie industry is performing in a growing trend over th 27 years. BV is the fastest grower, where it takes up 28% of the marketshare among all Big studios. We can tell that BV is really into making great movies. No matter the box office or Rotten Tomatoes scores, BV has been at the top of the chart for recent years. 
+
+The top Gross movies usually do not have very good Rotten Tomatoes scores, the high Rotten Tomatoes scores movies are usually low in terms of revenue, therefore we found the negative correlation between box office and Rotten Tomatoes scores. but BV is trying to break this norm by producing a lot of the high quality movies that perfom highly on both scales in the recent years.
+
+By taking the example of Avengers, we found out that North America has the greatest box office opportunies for the Hollywood big 6 production movies. China is the second largest outside of North America. This is a clear sign for the big 6 studios to market in China in order to increase their total gross.
 
 
 
