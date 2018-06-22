@@ -54,7 +54,7 @@ Rotten Tomatoes  is an American  review-aggregation website  for film and televi
 
 ###
 
-<img src="https://pbs.twimg.com/media/C4PrQIzUcAAPwFx.jpg" width="300" height="150"/>
+<img src="https://www.programmableweb.com/sites/default/files/styles/facebook_scale_height_200/public/OMDb%20API.png?itok=9pgYjYe1 width="300" height="150"/>
 
 The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. 
 
